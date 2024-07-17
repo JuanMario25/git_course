@@ -12,6 +12,8 @@
   <li>Command: git status</li>
   <li>Command: git add .</li>
   <li>Command: git add "new file name"</li>
+  <li>Command: git commit -m "mensage"</li>
+  <li>Command: git push</li>
   <li>Command: git commit -m "mensage" --> commit mensage only for file that has been modificated</li>
   <li>Command: git commit . -m "mensage" --> global commit mensage</li>
   <li>Command: git push</li>
