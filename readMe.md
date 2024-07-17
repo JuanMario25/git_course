@@ -8,7 +8,7 @@
   <li>Command: git log -p </li>
   <li>Command: git log --author="user_name"</li>
   <li>Command: git log --since=1.month.ago --until=1.day.ago </li>
-  <li>This text help to test the command "git pull", in order to now if the repository has been updated since the prompt</li>
+  <li>This text help to test the command "git pull", in order to know if the repository has been updated since the prompt</li>
   <li>Command: git status</li>
   <li>Command: git add .</li>
   <li>Command: git add "new file name"</li>
@@ -19,4 +19,7 @@
   <li>Command: git push</li>
   <li>Command: git diff "file" --> to show the lines added or deleted from the file</li>
   <li>Command: git restore --source "version(hexadecimal number)" "file name"</li>
+  <li>Command: git branch --> to see the branches on exist </li>
+  <li>Command: git checkout -b "name of the new branch"</li>
+  <li>Command: git switch "name of the branch"<li>
 </ul>
