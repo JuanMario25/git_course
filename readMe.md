@@ -24,7 +24,7 @@
   <li>Command: git restore --source "version(hexadecimal number)" "file name"  note: don't use semi colon</li>
   <li>Command: git branch --> to see the branches on exist </li>
   <li>Command: git checkout -b "name of the new branch" note: don't use semi colon</li>
-  <li>Command: git switch "name of the branch" note: don't use semi colon<li>
+  <li>Command: git switch "name of the branch" note: don't use semi colon</li>
   <li>Command: git pull origin "name of the branch" note: don't use semi colon</li>
   <li>Command: git merge "file name" note: don't use semi colon</li>
 </ul>
