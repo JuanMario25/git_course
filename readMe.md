@@ -11,7 +11,7 @@
   <li>Command: git log -p </li>
   <li>Command: git log --author="user_name"</li>
   <li>Command: git log --since=1.month.ago --until=1.day.ago </li>
-  <li>This text help to test the command "git pull", in order to know if the repository has been updated since the prompt</li>
+  <li>Command: git pull, in order to know if the repository has been updated since the prompt</li>
   <li>Command: git status</li>
   <li>Command: git add .</li>
   <li>Command: git add "new file name"</li>
