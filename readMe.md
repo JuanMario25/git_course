@@ -2,7 +2,10 @@
 <ul>
   <li>Creation date 11/07/2024</li>
   <li>Created by Juan Mario Ayala Ayala</li>
-  <li>Command: git clone "URL", To clon a repository of github </li>
+  <li>Command: git config --global user.name "Name"</li>
+  <li>Command: git config --global user.email "your.email@example.com"</li>
+  <li>Command: git config --list</li>
+  <li>Command: git clone "URL", To clon a repository of github note: don't use semi colon</li>
   <li>Command: git log -> to see the information related with the commits </li>
   <li>Command: git log --online </li>
   <li>Command: git log -p </li>
@@ -23,4 +26,5 @@
   <li>Command: git checkout -b "name of the new branch" note: don't use semi colon</li>
   <li>Command: git switch "name of the branch" note: don't use semi colon<li>
   <li>Command: git pull origin "name of the branch" note: don't use semi colon</li>
+  <li>Command: git merge "file name" note: don't use semi colon</li>
 </ul>
